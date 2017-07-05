@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/bin/iPhoneSimulator/Debug/XamariniOSAVAudioPlayer.exe.mdb
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/bin/iPhoneSimulator/Debug/XamariniOSAVAudioPlayer.exe
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/XamariniOSAVAudioPlayer.exe
+/Users/DELPIN/Projects/XamariniOSAVAudioPlayer/XamariniOSAVAudioPlayer/obj/iPhoneSimulator/Debug/XamariniOSAVAudioPlayer.exe.mdb
