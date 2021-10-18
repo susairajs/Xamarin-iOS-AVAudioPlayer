@@ -1,6 +1,6 @@
-# Xamarin.iOS AVAudioPlayer
+# Working with AVAudioPlayer in Xamarin.iOS
 
-## Sample Output
+### Sample Output
 ![alt text](https://www.c-sharpcorner.com/article/avaudioplayer-in-xamarin-ios-app4/Images/image011.png)
 ## More Details
 https://www.c-sharpcorner.com/article/avaudioplayer-in-xamarin-ios-app4/
